@@ -1,0 +1,20 @@
+{
+  "name": "merge-md",
+  "version": "1.1.0",
+  "description": "Merge files in a directory.",
+  "main": "merge.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/42mandychen/merge-md.git"
+  },
+  "bugs": "https://github.com/42mandychen/merge-md/issues",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "merge": "./merge.js"
+  },
+  "author": "Mandy Chen <42ruxin@gamil.com> (http://www.mandychen.me)",
+  "contributors": ["Piotr Zaborowski <piotr.zaborowski@reactfactory.pl>"],
+  "license": "MIT"
+}
